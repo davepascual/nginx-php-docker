@@ -97,3 +97,10 @@ Refresh page and see the difference of value of `app_name` environment variable.
 
 
 > Add expose port 8009 to `docker-compose.yaml` ports.
+
+
+
+
+## IMPORTANT NOTE:
+Restart NGINX service everytime you make changes in its `default.conf` and `docker-compose.yaml`.
+
